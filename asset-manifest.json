@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/PokeLore/static/css/main.ebb060d7.css",
-    "main.js": "/PokeLore/static/js/main.a9b1ac80.js",
-    "index.html": "/PokeLore/index.html",
-    "main.ebb060d7.css.map": "/PokeLore/static/css/main.ebb060d7.css.map",
-    "main.a9b1ac80.js.map": "/PokeLore/static/js/main.a9b1ac80.js.map"
+    "main.css": "/PokeLore.git/static/css/main.ebb060d7.css",
+    "main.js": "/PokeLore.git/static/js/main.a9b1ac80.js",
+    "index.html": "/PokeLore.git/index.html",
+    "main.ebb060d7.css.map": "/PokeLore.git/static/css/main.ebb060d7.css.map",
+    "main.a9b1ac80.js.map": "/PokeLore.git/static/js/main.a9b1ac80.js.map"
   },
   "entrypoints": [
     "static/css/main.ebb060d7.css",
