@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "658c567c432f36c6d54a",
-    "url": "/PokeLore/static/css/main.6044806d.chunk.css"
+    "revision": "86b716abcf262bd2c479",
+    "url": "/PokeLore/static/css/main.9b17d1c3.chunk.css"
   },
   {
-    "revision": "658c567c432f36c6d54a",
-    "url": "/PokeLore/static/js/main.658c567c.chunk.js"
+    "revision": "86b716abcf262bd2c479",
+    "url": "/PokeLore/static/js/main.86b716ab.chunk.js"
   },
   {
     "revision": "3551d910ef883062d3bf",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/PokeLore/static/media/Littleroot.5e2f9997.mp3"
   },
   {
-    "revision": "b76f52cfaa1f45aabd82a82fddb773e4",
+    "revision": "07d9095d2169511047ba4c15f27de4ea",
     "url": "/PokeLore/index.html"
   }
 ];
