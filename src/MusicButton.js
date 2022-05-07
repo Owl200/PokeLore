@@ -12,6 +12,7 @@ export default function MusicButton() {
     const toggleMusic = e => {
         e.target.src === off ? e.target.src = on : e.target.src = off;
         setIsPlaying(prev => !prev);
+        song.loop = true;
     }
     
 
