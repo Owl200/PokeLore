@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/PokeLore/precache-manifest.1487251a8860ad72d620ef31c22af23e.js"
+  "/PokeLore/precache-manifest.c0012454b05cbabb3f7d9310a4b6431b.js"
 );
 
 workbox.clientsClaim();
