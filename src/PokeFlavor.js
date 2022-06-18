@@ -5,7 +5,7 @@ export default function PokeFlavor(props) {
     const [flavorArr, setFlavorArr] = useState(0)
     const [flavorData, setFlavorData] = useState([
         {
-          "flavor_text": "When several of\nthese POKéMON\ngather, their\felectricity could\nbuild and cause\nlightning storms.",
+          "flavor_text": "When several of these POKéMON gather, their electricity could build and cause lightning storms.",
           "language": {
             "name": "en",
             "url": "https://pokeapi.co/api/v2/language/9/"
@@ -39,7 +39,7 @@ export default function PokeFlavor(props) {
     <div className='card card2'>
         <h2>Description</h2>
         <p>Version: {flavorData[flavorArr].version.name}</p>
-        <p>{flavorData[flavorArr].flavor_text}</p>
+        <p>{flavorData[flavorArr].flavor_text.replace(/[-[/\]{}()*+?.,\\^$|#\s]/g, ' ')}</p>
         <button className='nav-button' onClick={prevFlavor}>&lt;&lt;</button>
         <button className='nav-button' onClick={nextFlavor}>&gt;&gt;</button>
     </div>
