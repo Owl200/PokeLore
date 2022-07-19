@@ -1,14 +1,14 @@
 {
-  "main.css": "/PokeLore/static/css/main.9b17d1c3.chunk.css",
-  "main.js": "/PokeLore/static/js/main.0d4bb607.chunk.js",
-  "main.js.map": "/PokeLore/static/js/main.0d4bb607.chunk.js.map",
+  "main.css": "/PokeLore/static/css/main.79a58e58.chunk.css",
+  "main.js": "/PokeLore/static/js/main.ae633bff.chunk.js",
+  "main.js.map": "/PokeLore/static/js/main.ae633bff.chunk.js.map",
   "static/js/1.3551d910.chunk.js": "/PokeLore/static/js/1.3551d910.chunk.js",
   "static/js/1.3551d910.chunk.js.map": "/PokeLore/static/js/1.3551d910.chunk.js.map",
   "runtime~main.js": "/PokeLore/static/js/runtime~main.bfcbb05d.js",
   "runtime~main.js.map": "/PokeLore/static/js/runtime~main.bfcbb05d.js.map",
   "static/media/Littleroot.mp3": "/PokeLore/static/media/Littleroot.5e2f9997.mp3",
-  "static/css/main.9b17d1c3.chunk.css.map": "/PokeLore/static/css/main.9b17d1c3.chunk.css.map",
+  "static/css/main.79a58e58.chunk.css.map": "/PokeLore/static/css/main.79a58e58.chunk.css.map",
   "index.html": "/PokeLore/index.html",
-  "precache-manifest.c0012454b05cbabb3f7d9310a4b6431b.js": "/PokeLore/precache-manifest.c0012454b05cbabb3f7d9310a4b6431b.js",
+  "precache-manifest.d5fb3f26d823b66f6affc9d4180d6ac4.js": "/PokeLore/precache-manifest.d5fb3f26d823b66f6affc9d4180d6ac4.js",
   "service-worker.js": "/PokeLore/service-worker.js"
 }
